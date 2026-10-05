@@ -17,6 +17,10 @@ $papers[0]->archive;    // Devon Archives and Local Studies Service, 3483 A/PO 2
 $papers[0]->url;        // its page in Discovery
 ```
 
+No framework needed: the package requires `glitchr/omnistate` and `symfony/http-client`.
+`$httpClient` is the HTTP client to call with - the application's, `HttpClient::create()` in
+plain PHP, a `MockHttpClient` in a test.
+
 | | |
 |---|---|
 | Countries | GB |
