@@ -29,4 +29,4 @@ plain PHP, a `MockHttpClient` in a test.
 | Persons | not structured: the name is in the title or the description |
 | Access | free, no key; moderation asked: one call a second, 3,000 a day per address |
 
-Documentation: [docs/](docs/index.md). License: LGPL-3.0-or-later.
+Documentation: [docs/](docs/index.md). License: MIT since 2026-10-09; earlier versions remain published under LGPL-3.0-or-later.
